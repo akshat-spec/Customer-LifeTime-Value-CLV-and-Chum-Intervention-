@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Data
+retention_results.csv
+
+# IDEs
+.vscode/
+.idea/
