@@ -50,4 +50,4 @@ The dashboard provides a clear view of:
 - **Priority Outreach**: Identifies the top at-risk high-value customers for immediate contact.
 
 ---
-*Developed as part of an MBA Capstone project focusing on AI Solutions Architecture.*
+
